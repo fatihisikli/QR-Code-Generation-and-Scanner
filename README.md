@@ -1,16 +1,9 @@
-# qr_code_scanner
+qr kod oluşturucu ve qr kod tarayıcı flutter uygulaması.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![1](https://user-images.githubusercontent.com/43852736/194671709-c753d8bb-2628-48e1-98cf-396769d348bd.png)
 
-A few resources to get you started if this is your first Flutter project:
+![2](https://user-images.githubusercontent.com/43852736/194671717-5cf4f851-9d08-4e3a-9d1f-3b29b4d4bbb5.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://user-images.githubusercontent.com/43852736/194671721-ef4a8188-8c2d-434e-82ca-2e11b2eb8193.png)
